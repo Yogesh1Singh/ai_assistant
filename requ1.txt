@@ -1,7 +1,8 @@
 streamlit
 requests
 pyttsx3
-opencv-python
 gtts
 speechrecognition
 pillow
+opencv-python-headless
+
